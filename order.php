@@ -28,10 +28,10 @@ $infocdnData = [
         ]
     ],
     'system'    =>  [
-        'network'   => 'ad1', // название сети
-        'thread'    => 'sBhC', // id потока из ad1.ru, например bakm
+        'network'   => '', // название сети
+        'thread'    => '', // id потока из ad1.ru, например bakm
         'subid'     => implode(':', [$subId1, $subId2, $subId3, $subId4, $subId5]), // 5 субайди, например subid1:subid2:subid3:subid4:subid5 (не обязательно)
-        'site_key'  => '98ab90dc68 ' // ключ
+        'site_key'  => '' // ключ
     ]
 ];
 
